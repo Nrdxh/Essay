@@ -4,8 +4,9 @@
 ## 常用网址
 
 云影ss https://get.cloudss.biz/
-
-
+CNTK https://www.microsoft.com/en-us/cognitive-toolkit/
+tensorflow https://www.tensorflow.org/
+kaldi http://kaldi-asr.org/
 
 ## C语言-stm32
 
