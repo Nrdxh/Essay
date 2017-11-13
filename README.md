@@ -1,6 +1,12 @@
 # Essay
 记录一些临时想法
 
+## 常用网址
+
+云影ss https://get.cloudss.biz/
+
+
+
 ## C语言-stm32
 
 **地址运算符&和取值运算符（间接运算符）***
@@ -21,13 +27,13 @@ pti = dates;
 
 或者pti = &dates[0];
 
-**即数组 dates == &dates[0]
+**即数组 dates == &dates[0]**
 
 dates + 2 == &dates[2]
 
-* (dates + 2) == date[2]
+*(dates + 2) == date[2]
 
-* dates + 2 == date[0] + 2
+*dates + 2 == date[0] + 2
 
 ## python-tensorflow
 
