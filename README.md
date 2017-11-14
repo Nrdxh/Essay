@@ -11,6 +11,8 @@ tensorflow https://www.tensorflow.org/
 
 kaldi http://kaldi-asr.org/
 
+linux命令大全 http://man.linuxde.net/
+
 ## C语言-stm32
 
 &&与运算
