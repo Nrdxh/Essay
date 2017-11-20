@@ -19,7 +19,7 @@ linux命令大全 http://man.linuxde.net/
 
 ||或运算
 
-**地址运算符&和取值运算符（间接运算符）***
+- 地址运算符&和取值运算符（间接运算符）*
 
 在函数定义时若使用int a(* pti) 
 
@@ -27,7 +27,7 @@ linux命令大全 http://man.linuxde.net/
 
 如此在使用pti时对应的是一个x的地址&x，* pti则是指向这个地址的值
 
-**指针与数组**
+- 指针与数组
 
 数组short dates[SIZE];
 
@@ -46,6 +46,18 @@ dates + 2 == &dates[2]
 *dates + 2 == date[0] + 2
 
 ## python-tensorflow
+
+- 绝对路径与相对路径
+
+Python2.x 缺省为相对路径导入，Python3.x 缺省为绝对路径导入
+
+若Python2.x 要默认使用绝对路径导入，需要输入
+
+from __future__ import absolute_import
+
+from __future__ import division
+
+from __future__ import print_function
 
 ## shell-kaldi
 
