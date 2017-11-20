@@ -53,11 +53,11 @@ Python2.x 缺省为相对路径导入，Python3.x 缺省为绝对路径导入
 
 若Python2.x 要默认使用绝对路径导入，需要输入
 
-from __future__ import absolute_import
+from \_\_future\_\_ import absolute_import
 
-from __future__ import division
+from \_\_future\_\_ import division
 
-from __future__ import print_function
+from \_\_future\_\_ import print_function
 
 ## shell-kaldi
 
