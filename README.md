@@ -1,6 +1,10 @@
 # Essay
 记录一些临时想法
 
+## API及文档
+
+numpy中文文档 http://python.usyiyi.cn/translate/NumPy_v111/index.html
+
 ## 常用网址
 
 云影ss https://get.cloudss.biz/
