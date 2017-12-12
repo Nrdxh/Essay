@@ -19,6 +19,8 @@ linux命令大全 http://man.linuxde.net/
 
 wheel文件 https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
 
+deep learning 编程作业 http://blog.csdn.net/justry24
+
 ## C语言-stm32
 
 &&与运算
