@@ -16,3 +16,7 @@ https://jingyan.baidu.com/article/e6c8503c1e89d6e54f1a188c.html
 range返回list
 
 np.arange返回array
+
+# numpy.ndarray.flatten
+
+转换数列变成 一维矩阵
