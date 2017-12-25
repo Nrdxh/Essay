@@ -20,3 +20,8 @@ np.arange返回array
 # numpy.ndarray.flatten
 
 转换数列变成 一维矩阵
+
+# dataframe 合并
+
+http://blog.csdn.net/milton2017/article/details/54406482
+
