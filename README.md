@@ -76,3 +76,7 @@ from \_\_future\_\_ import print_function
 ## matlab
 
 MATLAB如何导出 csv文件   https://www.zhihu.com/question/39707220
+
+```javascript
+import numpy as np
+```
