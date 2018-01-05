@@ -26,6 +26,7 @@ np.arange返回array
 http://blog.csdn.net/milton2017/article/details/54406482
 
 # 一、数组方法
+https://www.cnblogs.com/xinchrome/p/5043480.html
 
 创建数组：arange()创建一维数组；array()创建一维或多维数组，其参数是类似于数组的对象，如列表等
 
