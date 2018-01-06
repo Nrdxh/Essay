@@ -239,3 +239,18 @@ Svd分解：np.linalg.svd(A)
 增加图例：如plt.legend(loc='best', fancybox=True)
 
 对坐标取对数：横坐标plt.semilogx()，纵坐标plt.semilogy()，横纵同时plt.loglog()
+
+
+# 计算Python Numpy向量之间的欧氏距离
+
+计算Python Numpy向量之间的欧氏距离，已知vec1和vec2是两个Numpy向量，欧氏距离计算如下：
+
+'''python
+import numpy as np
+dist = np.sqrt(np.sum(square(vec1 - vec2)))
+'''
+
+或者直接使用linalg
+'''python
+dist = np.linalg.norm(vec1 - vec2)
+'''
