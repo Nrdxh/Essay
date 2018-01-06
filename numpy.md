@@ -245,12 +245,12 @@ Svd分解：np.linalg.svd(A)
 
 计算Python Numpy向量之间的欧氏距离，已知vec1和vec2是两个Numpy向量，欧氏距离计算如下：
 
-'''python
+```python
 import numpy as np
 dist = np.sqrt(np.sum(square(vec1 - vec2)))
-'''
+```
 
 或者直接使用linalg
-'''python
+```python
 dist = np.linalg.norm(vec1 - vec2)
-'''
+```
