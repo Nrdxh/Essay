@@ -80,3 +80,7 @@ MATLAB如何导出 csv文件   https://www.zhihu.com/question/39707220
 ```javascript
 import numpy as np
 ```
+
+## python安装
+
+忽略已存在的库  pip install llvmlite --ignore-installed llvmlite
